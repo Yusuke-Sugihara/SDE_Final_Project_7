@@ -39,7 +39,7 @@ Notably, these requests necessitate the inclusion of essential headers such as X
 
 The detailed integration of the API keys can be found inside the root folder-src-api-index.js.
 
-A code snippet for the Google Maps API is as follows:
+A code snippet for the Travel Advisor API is as follows:
 
 ```javascript
 import axios from "axios";
